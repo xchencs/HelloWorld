@@ -4,5 +4,7 @@ Class HelloWorld{
 		System.out.println("hello world");
 		System.out.println("hello world");
 	}
-
+	public void g(){
+		System.out.println("fix-B");
+	}
 }
