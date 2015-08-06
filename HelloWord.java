@@ -4,5 +4,8 @@ Class HelloWorld{
 		System.out.println("hello world");
 		System.out.println("hello world");
 	}
+	public int f(){
+		System.out.println("feature-A");
+	}
 
 }
